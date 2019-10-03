@@ -1,7 +1,7 @@
 # J_portfolio
 > 황진아의 포트폴리오 입니다.
 ## Notice
-> 모든 문서는 [[Wiki](url주소)]에 있습니다.
+> 모든 문서는 [[Wiki](https://github.com/Jina-Hwang/J_portfolio/wiki)]에 있습니다.
 * dfd
   * dfd
   
