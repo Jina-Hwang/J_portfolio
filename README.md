@@ -23,10 +23,7 @@
 - Tensorflow
   + Convolutional Neural Network(CNN)
 
-* Tensorflow
-  * Convolutional Neural Network(CNN)
-  
-  <br>
+<br>
   
   ```
   djfdk
