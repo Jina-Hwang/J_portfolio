@@ -2,6 +2,7 @@
 > 황진아의 포트폴리오 입니다.
 ## Notice
 > 모든 문서는 [[Wiki](https://github.com/Jina-Hwang/J_portfolio/wiki)]에 있습니다.
+> 본 내용은 프로젝트 기술 별로 작성되었습니다.
 ## Contents
 > R
 * DATA MINING
