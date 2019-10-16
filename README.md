@@ -25,13 +25,14 @@
   + Convolutional Neural Network(CNN)
 
 <br>
+  *************
   
   ```
   djfdk
   dfdfd
   ```
   
-  **분석기법** #굵게
+  **분석기법**
   
   
   ### Skill
