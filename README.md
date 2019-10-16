@@ -24,8 +24,6 @@
 - Tensorflow
   + Convolutional Neural Network(CNN)
 
-<br>
-
   *************
   
   ```
@@ -40,7 +38,7 @@
   
   `#R` `#Python`
   
-  *************
+
   
 Input variables | Definitions
 ------------- | -------------
