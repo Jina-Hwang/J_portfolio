@@ -40,6 +40,6 @@
   
 
   
-Input variables | Definitions
+***Input variables | ***Definitions
 ------------- | -------------
 variable1 | definition1
