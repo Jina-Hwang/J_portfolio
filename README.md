@@ -28,7 +28,7 @@
    
   ### Skill
   
-  `#R` `#Python`
+  `#R` `#Python` `#Tensorflow` `Machine Learning` `Big Data` 
   
   ```
   djfdk
