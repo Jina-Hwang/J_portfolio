@@ -24,12 +24,13 @@
 - Tensorflow
   + Convolutional Neural Network(CNN)
 
-  *************
-   
-  ### Skill
-  
-  `#R` `#Python` `#Tensorflow` `#Machine Learning` `#Big Data` 
-  
+<br>   
+
+### Skill
+> `#R` `#Python` `#Tensorflow` `#Machine Learning` `#Big Data` 
+
+*************  
+
   ```
   djfdk
   dfdfd
