@@ -25,6 +25,10 @@
   + Convolutional Neural Network(CNN)
 
   *************
+   
+  ### Skill
+  
+  `#R` `#Python`
   
   ```
   djfdk
@@ -32,15 +36,6 @@
   ```
   
   ***분석기법***
-  
-  
-  
-  
-  ### Skill
-  
-  `#R` `#Python`
-  
-
   
 Input variables | Definitions
 ------------- | -------------
