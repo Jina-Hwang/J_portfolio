@@ -27,7 +27,7 @@
 <br>   
 
 ### Skill
-`#R` `#Python` `#Tensorflow` `#Machine Learning` `#Big Data` 
+`#R` `#Python` `#Machine Learning` `#Big Data` `#Tensorflow`
 
 *************  
 
