@@ -23,9 +23,7 @@
 
 > Python  
 - Tensorflow
-  + Convolutional Neural Network(CNN)
-
-<br>   
+  + Convolutional Neural Network(CNN)  
 
 ### Skill
 `#R` `#Python` `#Machine Learning` `#Big Data` `#Tensorflow`
