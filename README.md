@@ -1,9 +1,10 @@
-# Welcome to J_portfolio
+## Welcome to J_portfolio
 
-## Notice
+### Notice
 > 모든 문서는 [[Wiki](https://github.com/Jina-Hwang/J_portfolio/wiki)]에 있습니다.
 > 본 내용은 프로젝트 기술 별로 작성되었습니다.
-## Contents
+
+### Contents
 > R
 * DATA MINING
   * Artificial Neural Network
